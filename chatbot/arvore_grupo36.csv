@@ -1,0 +1,150 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;A área do porão é maior que 457.12m2?;SIM;2;NÃO;3
+2;Possui mais que 8 níveis?;SIM;4;NÃO;5
+3;Possui mais que 2 pavimentos?;SIM;6;NÃO;7
+4;Possui vista?;SIM;8;NÃO;9
+5;Possui mais do que 2 banheiros?;SIM;10;NÃO;11
+6;Possui mais que 8 níveis?;SIM;12;NÃO;13
+7;Possui mais do que 2 banheiros?;SIM;14;NÃO;15
+8;É a beira-mar?;SIM;16;NÃO;17
+9;A área da sala de estar é maior que 2150.58m2?;SIM;18;NÃO;19
+10;Possui mais que 2 pavimentos?;SIM;20;NÃO;21
+11;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+12;A área do lote é maior que 5121.17m2?;SIM;22;NÃO;23
+13;Foi construído depois do ano de 1946?;SIM;24;NÃO;25
+14;Possui mais do que 1693.46m2 de área acima?;SIM;26;NÃO;27
+15;Está em condição maior que 4?;SIM;28;NÃO;29
+16;Está em condição maior que 4?;SIM;30;NÃO;31
+17;Possui mais que 2 pavimentos?;SIM;32;NÃO;33
+18;Possui mais que 4 quartos?;SIM;34;NÃO;35
+19;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+20;A área da sala de estar é maior que 2150.58m2?;SIM;36;NÃO;37
+21;Está em condição maior que 4?;SIM;38;NÃO;39
+22;Possui mais que 4 quartos?;SIM;40;NÃO;41
+23;A área da sala de estar é maior que 2150.58m2?;SIM;42;NÃO;43
+24;A área do lote é maior que 5121.17m2?;SIM;44;NÃO;45
+25;Possui mais que 4 quartos?;SIM;46;NÃO;47
+26;Está em condição maior que 4?;SIM;48;NÃO;49
+27;Possui mais que 4 quartos?;SIM;50;NÃO;51
+28;Possui mais que 8 níveis?;SIM;52;NÃO;53
+29;Foi construído depois do ano de 1946?;SIM;54;NÃO;55
+30;NÓ FOLHA;A casa está CARA;;;
+31;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+32;Foi construído depois do ano de 1946?;SIM;56;NÃO;57
+33;Foi construído depois do ano de 1946?;SIM;58;NÃO;59
+34;Possui mais que 2 pavimentos?;SIM;60;NÃO;61
+35;Possui mais que 2 pavimentos?;SIM;62;NÃO;63
+36;NÓ FOLHA;A casa está BARATA;;;
+37;Foi construído depois do ano de 1946?;SIM;64;NÃO;65
+38;Possui mais que 4 quartos?;SIM;66;NÃO;67
+39;NÓ FOLHA;A casa está BARATA;;;
+40;Foi construído depois do ano de 1946?;SIM;68;NÃO;69
+41;Possui mais do que 1693.46m2 de área acima?;SIM;70;NÃO;71
+42;Está em condição maior que 4?;SIM;72;NÃO;73
+43;Foi construído depois do ano de 1946?;SIM;74;NÃO;75
+44;NÓ FOLHA;A casa está CARA;;;
+45;NÓ FOLHA;A casa está BARATA;;;
+46;A área da sala de estar é maior que 2150.58m2?;SIM;76;NÃO;77
+47;Possui mais do que 1693.46m2 de área acima?;SIM;78;NÃO;79
+48;NÓ FOLHA;A casa está CARA;;;
+49;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+50;Está em condição maior que 4?;SIM;80;NÃO;81
+51;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+52;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+53;NÓ FOLHA;A casa está CARA;;;
+54;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+55;A área do lote é maior que 5121.17m2?;SIM;82;NÃO;83
+56;Está em condição maior que 4?;SIM;84;NÃO;85
+57;Está em condição maior que 4?;SIM;86;NÃO;87
+58;Possui mais do que 1693.46m2 de área acima?;SIM;88;NÃO;89
+59;NÓ FOLHA;A casa está CARA;;;
+60;Foi construído depois do ano de 1946?;SIM;90;NÃO;91
+61;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+62;Foi construído depois do ano de 1946?;SIM;92;NÃO;93
+63;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+64;NÓ FOLHA;A casa está BARATA;;;
+65;Possui mais que 4 quartos?;SIM;94;NÃO;95
+66;NÓ FOLHA;A casa está BARATA;;;
+67;A área do lote é maior que 5121.17m2?;SIM;96;NÃO;97
+68;NÓ FOLHA;A casa está CARA;;;
+69;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+70;Está em condição maior que 4?;SIM;98;NÃO;99
+71;Está em condição maior que 4?;SIM;100;NÃO;101
+72;NÓ FOLHA;A casa está CARA;;;
+73;Possui mais que 4 quartos?;SIM;102;NÃO;103
+74;Possui mais do que 1693.46m2 de área acima?;SIM;104;NÃO;105
+75;Possui mais do que 1693.46m2 de área acima?;SIM;106;NÃO;107
+76;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+77;Possui mais do que 2 banheiros?;SIM;108;NÃO;109
+78;NÓ FOLHA;A casa está BARATA;;;
+79;Possui mais do que 2 banheiros?;SIM;110;NÃO;111
+80;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+81;NÓ FOLHA;A casa está BARATA;;;
+82;NÓ FOLHA;A casa está BARATA;;;
+83;Possui mais que 8 níveis?;SIM;112;NÃO;113
+84;NÓ FOLHA;A casa está BARATA;;;
+85;NÓ FOLHA;A casa está BARATA;;;
+86;Possui mais que 4 quartos?;SIM;114;NÃO;115
+87;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+88;Possui mais que 4 quartos?;SIM;116;NÃO;117
+89;Possui mais que 4 quartos?;SIM;118;NÃO;119
+90;Possui mais do que 1693.46m2 de área acima?;SIM;120;NÃO;121
+91;Possui mais do que 1693.46m2 de área acima?;SIM;122;NÃO;123
+92;Está em condição maior que 4?;SIM;124;NÃO;125
+93;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+94;NÓ FOLHA;A casa está BARATA;;;
+95;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+96;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+97;A área da sala de estar é maior que 2150.58m2?;SIM;126;NÃO;127
+98;NÓ FOLHA;A casa está CARA;;;
+99;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+100;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+101;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+102;Foi construído depois do ano de 1946?;SIM;128;NÃO;129
+103;Foi construído depois do ano de 1946?;SIM;130;NÃO;131
+104;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+105;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+106;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+107;Possui mais do que 2 banheiros?;SIM;132;NÃO;133
+108;Está em condição maior que 4?;SIM;134;NÃO;135
+109;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+110;Está em condição maior que 4?;SIM;136;NÃO;137
+111;Está em condição maior que 4?;SIM;138;NÃO;139
+112;NÓ FOLHA;A casa está CARA;;;
+113;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+114;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+115;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+116;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+117;Está em condição maior que 4?;SIM;140;NÃO;141
+118;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+119;NÓ FOLHA;A casa está BARATA;;;
+120;Está em condição maior que 4?;SIM;142;NÃO;143
+121;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+122;Está em condição maior que 4?;SIM;144;NÃO;145
+123;NÓ FOLHA;A casa está BARATA;;;
+124;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+125;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+126;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+127;NÓ FOLHA;A casa está CARA;;;
+128;NÓ FOLHA;A casa está BARATA;;;
+129;NÓ FOLHA;A casa está BARATA;;;
+130;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+131;NÓ FOLHA;A casa está BARATA;;;
+132;NÓ FOLHA;A casa está CARA;;;
+133;NÓ FOLHA;A casa está BARATA;;;
+134;Possui vista?;SIM;146;NÃO;147
+135;NÓ FOLHA;A casa está BARATA;;;
+136;NÓ FOLHA;A casa está BARATA;;;
+137;NÓ FOLHA;A casa está BARATA;;;
+138;NÓ FOLHA;A casa está BARATA;;;
+139;NÓ FOLHA;A casa está BARATA;;;
+140;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+141;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+142;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+143;NÓ FOLHA;A casa está BARATA;;;
+144;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+145;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+146;NÓ FOLHA;A casa está dentro da MÉDIA;;;
+147;Possui mais do que 1693.46m2 de área acima?;SIM;148;NÃO;149
+148;NÓ FOLHA;A casa está BARATA;;;
+149;NÓ FOLHA;A casa está BARATA;;;
